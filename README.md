@@ -21,7 +21,7 @@ This project was designed to demonstrate the use of object-oriented programming,
 1. User Account Management
 >Sign up and log in
 
-Password verification
+>Password verification
 
 >Account deletion and user switching
 
